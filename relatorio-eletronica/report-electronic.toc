@@ -1,0 +1,6 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {section}{\numberline {1}Retificador de meia onda}{5}{section.0.1}
+\contentsline {section}{\numberline {2}Segunda pr\IeC {\'a}tica}{8}{section.0.2}
